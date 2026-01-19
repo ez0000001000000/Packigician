@@ -4,7 +4,7 @@
   "description": "CLI tool to create paint-blocks-ui with balloon pop component",
   "main": "index.js",
   "bin": {
-    "paint-blocks": "./bin/cli.js"
+    "packagician-create": "./bin/cli.js"
   },
   "scripts": {
     "start": "node bin/cli.js",

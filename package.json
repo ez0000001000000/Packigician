@@ -1,7 +1,7 @@
 {
-  "name": "paint-blocks-cli",
+  "name": "packigician",
   "version": "1.0.1",
-  "description": "CLI tool to create paint-blocks-ui with balloon pop component",
+  "description": "CLI tool to generate npm package templates with placeholders",
   "main": "index.js",
   "bin": {
     "packagician-create": "./bin/cli.js"
@@ -12,11 +12,11 @@
   },
   "keywords": [
     "cli",
-    "react",
-    "component",
-    "ui",
-    "balloon",
-    "canvas"
+    "generator",
+    "npm",
+    "package",
+    "template",
+    "scaffolding"
   ],
   "author": "Your Name",
   "license": "MIT",
@@ -29,6 +29,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/paint-blocks-cli.git"
+    "url": "https://github.com/ez0000001000000/packigician.git"
   }
 }
